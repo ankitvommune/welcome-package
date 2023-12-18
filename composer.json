@@ -1,6 +1,6 @@
 {
     "name": "ankit/welcome-package",
-    "type": "library",
+    "type": "laravel-package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -15,7 +15,6 @@
     ],
     "require": {},
     "extra": {
-        "class": "Ankit\\WelcomePackage\\WelcomePackagePlugin",
         "laravel": {
             "providers": [
                 "Ankit\\WelcomePackage\\WelcomePackageServiceProvider"
