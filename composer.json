@@ -15,6 +15,7 @@
     ],
     "require": {},
     "extra": {
+        "class": "Ankit\\WelcomePackage\\WelcomePackagePlugin",
         "laravel": {
             "providers": [
                 "Ankit\\WelcomePackage\\WelcomePackageServiceProvider"
