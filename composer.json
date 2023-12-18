@@ -1,6 +1,6 @@
 {
     "name": "ankit/welcome-package",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
