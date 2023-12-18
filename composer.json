@@ -13,12 +13,5 @@
             "email": "ankit.verma@ommune.in"
         }
     ],
-    "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Ankit\\WelcomePackage\\WelcomePackageServiceProvider"
-            ]
-        }
-    }
+    "require": {}
 }
