@@ -1,0 +1,17 @@
+{
+    "name": "ankit/welcome-package",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ankit\\WelcomePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ankitvommune",
+            "email": "ankit.verma@ommune.in"
+        }
+    ],
+    "require": {}
+}
